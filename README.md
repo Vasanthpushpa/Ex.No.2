@@ -1,6 +1,6 @@
 # EXPERIMENT – 2: Evaluation of Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta
 ### Register No.: 212222240113
-### Date: 07.03.2025
+
 
 ## Aim:
 To systematically evaluate and compare the performance, user experience, and response quality of multiple AI platforms (ChatGPT, Claude, Perplexity) across different prompting strategies — namely Zero-Shot, Few-Shot, Chain-of-Thought, Role-Based, and ReAct prompting — within a focused mechanical engineering use case (Soft Robotics). The goal is to analyze how each AI tool interprets and summarizes a given technical paragraph (150 words) under various prompting techniques. Each AI's response will be individually assessed for quality, accuracy, and depth using a grading system, with separate notes for each model. The experiment also aims to capture actual model outputs to provide context for the evaluations, ensuring that comparisons are traceable, detailed, and meaningful.
